@@ -2,6 +2,7 @@
   <library name="json-simple-1.1">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../../../../Softwares/json-simple-1.1.jar/json-simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Softwares/mysql-connector-java-8.0.30 (1)/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
